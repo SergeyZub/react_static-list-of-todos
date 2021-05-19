@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,MACE,SAAU,CACX,MAGC,WAAY,CACZ,cAAe","file":"main.94678ac8.chunk.css","sourcesContent":[".user {\n  color: red;\n}\n\n.todo {\n  padding: 4px;\n  font-size: 18px;\n}\n"]}
